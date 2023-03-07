@@ -1,6 +1,6 @@
 hosts
 *.pub
 /ansible/roles/
-/ansble/common/
+/ansible/common/
 *.cfg
 *.conf
